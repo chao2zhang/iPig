@@ -1,0 +1,8 @@
+26 0 24 377
+80
+
+0 0 24 377
+72
+
+//The first line is the image rect of the (right/left) cloud(x,y,w,h)
+//The second line is the circulation height of the (right/left) cloud
